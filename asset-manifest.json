@@ -1,0 +1,9 @@
+{
+  "main.js": "/clock-canvas/static/js/main.e1d35311.chunk.js",
+  "main.js.map": "/clock-canvas/static/js/main.e1d35311.chunk.js.map",
+  "runtime~main.js": "/clock-canvas/static/js/runtime~main.62360b56.js",
+  "runtime~main.js.map": "/clock-canvas/static/js/runtime~main.62360b56.js.map",
+  "index.html": "/clock-canvas/index.html",
+  "precache-manifest.45811c34970cffbb02a1ee30bb11a591.js": "/clock-canvas/precache-manifest.45811c34970cffbb02a1ee30bb11a591.js",
+  "service-worker.js": "/clock-canvas/service-worker.js"
+}
